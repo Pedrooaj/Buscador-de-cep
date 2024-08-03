@@ -25,6 +25,7 @@ h1{
     align-items: center;
     background-color: rgba(0, 255, 255, 0.61);
     gap: 20px;
+    padding: 20px;
 }
 
 @media (max-width: 500px) {
